@@ -1,0 +1,10 @@
+.bg-wine{
+    background-color: #6c0e2d;
+}
+.link-card{
+    color: black;
+}
+.link-card:hover{
+    color: #6c0e2d;
+    text-decoration: none;
+}
