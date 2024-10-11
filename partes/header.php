@@ -1,7 +1,7 @@
 <div class="row mt-5">
     <div class="col-sm-12 col-md-6">
         <h1 class="text-center">
-            <a class="link-card" href="./">
+            <a class="link-card" href="<?php echo $app_url ?>">
                 EN LINEA
             </a>
         </h1>

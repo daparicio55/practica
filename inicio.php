@@ -23,7 +23,8 @@
                         <img class="w-100" src="./resources/img/idea_01.PNG" alt="">
                         <h5 class="h5 mt-2">
                             <i class="bi bi-pencil-fill"></i> 
-                            <a class="link-card" href="./disenio.php">
+                            <a class="link-card" 
+                            href="<?php echo $app_url.'disenio/' ?>">
                                 DISEÑO
                             </a>
                         </h5>
@@ -38,7 +39,8 @@
                         <img class="w-100" src="./resources/img/idea_02.PNG" alt="">
                         <h5 class="h5 mt-2">
                             <i class="bi bi-flower1"></i> 
-                            <a class="link-card" href="./desarrollo.php">
+                            <a class="link-card" 
+                            href="<?php echo $app_url.'desarrollo/' ?>">
                                 DESARROLLO
                             </a>
                         </h5>
@@ -52,7 +54,8 @@
                         <img class="w-100" src="./resources/img/idea_03.PNG" alt="">
                         <h5 class="h5 mt-2">
                             <i class="bi bi-airplane"></i>
-                            <a class="link-card" href="./edicion.php">
+                            <a class="link-card" 
+                            href="<?php echo $app_url.'edicion/' ?>">
                                 EDICIÓN DE LIBROS
                             </a>
                         </h5>

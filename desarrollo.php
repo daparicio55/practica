@@ -18,7 +18,7 @@
     <div class="card-body">
         <div class="row">
             <div class="col-sm-12 col-md-6">
-                <img class="w-100"  src="resources/img/idea_02.PNG" alt="">
+                <img class="w-100"  src="<?php echo $app_url . 'resources/img/idea_02.PNG' ?>" alt="">
             </div>
                 <div class="col-sm-12 col-md-6">
                 <p>Lorem ipsum dolor sit amet 
